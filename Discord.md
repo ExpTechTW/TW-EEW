@@ -48,3 +48,15 @@ npm i ws
   "Text": true //測試模式 (若沒有這項表示是真實發生的地震)
 }
 ```
+
+## 測試
+- 對 ExpTech API POST 下方數據，即可模擬地震速報
+```json5
+{
+  "APIkey": "<ExpTech API Key>",
+  "Function": "earthquake",
+  "Type": "test",
+  "FormatVersion": 1,
+  "UUID":1 //設備編號 為使用相同 API Key 的機器人進行區隔
+}
+```
