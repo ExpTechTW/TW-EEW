@@ -1,0 +1,1992 @@
+[
+	{
+		"districts": [
+			{
+				"name": "中正區",
+				"NorthLatitude": 25.0421407,
+				"EastLongitude": 121.5198716
+			},
+			{
+				"name": "大同區",
+				"NorthLatitude": 25.0627243,
+				"EastLongitude": 121.5113064
+			},
+			{
+				"name": "中山區",
+				"NorthLatitude": 25.0792018,
+				"EastLongitude": 121.5427093
+			},
+			{
+				"name": "松山區",
+				"NorthLatitude": 25.0541591,
+				"EastLongitude": 121.5638621
+			},
+			{
+				"name": "大安區",
+				"NorthLatitude": 25.0249441,
+				"EastLongitude": 121.5433783
+			},
+			{
+				"name": "萬華區",
+				"NorthLatitude": 25.0262857,
+				"EastLongitude": 121.4970294
+			},
+			{
+				"name": "信義區",
+				"NorthLatitude": 25.0409201,
+				"EastLongitude": 121.5720055
+			},
+			{
+				"name": "士林區",
+				"NorthLatitude": 25.0950492,
+				"EastLongitude": 121.5246077
+			},
+			{
+				"name": "北投區",
+				"NorthLatitude": 25.1151759,
+				"EastLongitude": 121.515018
+			},
+			{
+				"name": "內湖區",
+				"NorthLatitude": 25.0689422,
+				"EastLongitude": 121.5909027
+			},
+			{
+				"name": "南港區",
+				"NorthLatitude": 25.0312347,
+				"EastLongitude": 121.6111949
+			},
+			{
+				"name": "文山區",
+				"NorthLatitude": 24.9929212,
+				"EastLongitude": 121.57125
+			}
+		],
+		"name": "臺北市"
+	},
+	{
+		"districts": [
+			{
+				"name": "仁愛區",
+				"NorthLatitude": 25.1187161,
+				"EastLongitude": 121.7451927
+			},
+			{
+				"name": "信義區",
+				"NorthLatitude": 25.0409201,
+				"EastLongitude": 121.5720055
+			},
+			{
+				"name": "中正區",
+				"NorthLatitude": 25.0421407,
+				"EastLongitude": 121.5198716
+			},
+			{
+				"name": "中山區",
+				"NorthLatitude": 25.0792018,
+				"EastLongitude": 121.5427093
+			},
+			{
+				"name": "安樂區",
+				"NorthLatitude": 25.1474144,
+				"EastLongitude": 121.7024448
+			},
+			{
+				"name": "暖暖區",
+				"NorthLatitude": 25.0836163,
+				"EastLongitude": 121.748042
+			},
+			{
+				"name": "七堵區",
+				"NorthLatitude": 25.1143924,
+				"EastLongitude": 121.685341
+			}
+		],
+		"name": "基隆市"
+	},
+	{
+		"districts": [
+			{
+				"name": "萬里區",
+				"NorthLatitude": 25.1676024,
+				"EastLongitude": 121.6397184
+			},
+			{
+				"name": "金山區",
+				"NorthLatitude": 25.222309,
+				"EastLongitude": 121.636457
+			},
+			{
+				"name": "板橋區",
+				"NorthLatitude": 25.0114095,
+				"EastLongitude": 121.4618415
+			},
+			{
+				"name": "汐止區",
+				"NorthLatitude": 25.0616059,
+				"EastLongitude": 121.6397184
+			},
+			{
+				"name": "深坑區",
+				"NorthLatitude": 25.0033792,
+				"EastLongitude": 121.6169002
+			},
+			{
+				"name": "石碇區",
+				"NorthLatitude": 25.0098662,
+				"EastLongitude": 121.6452827
+			},
+			{
+				"name": "瑞芳區",
+				"NorthLatitude": 25.103052,
+				"EastLongitude": 121.822098
+			},
+			{
+				"name": "平溪區",
+				"NorthLatitude": 25.0248314,
+				"EastLongitude": 121.7408654
+			},
+			{
+				"name": "雙溪區",
+				"NorthLatitude": 24.9971842,
+				"EastLongitude": 121.822098
+			},
+			{
+				"name": "貢寮區",
+				"NorthLatitude": 25.0168762,
+				"EastLongitude": 121.9459786
+			},
+			{
+				"name": "新店區",
+				"NorthLatitude": 24.978282,
+				"EastLongitude": 121.5394822
+			},
+			{
+				"name": "坪林區",
+				"NorthLatitude": 24.9350844,
+				"EastLongitude": 121.7107613
+			},
+			{
+				"name": "烏來區",
+				"NorthLatitude": 24.8663721,
+				"EastLongitude": 121.5497801
+			},
+			{
+				"name": "永和區",
+				"NorthLatitude": 25.0103251,
+				"EastLongitude": 121.5145353
+			},
+			{
+				"name": "中和區",
+				"NorthLatitude": 24.9962178,
+				"EastLongitude": 121.4853103
+			},
+			{
+				"name": "土城區",
+				"NorthLatitude": 24.968371,
+				"EastLongitude": 121.438034
+			},
+			{
+				"name": "三峽區",
+				"NorthLatitude": 24.9358605,
+				"EastLongitude": 121.3744903
+			},
+			{
+				"name": "樹林區",
+				"NorthLatitude": 24.9815605,
+				"EastLongitude": 121.4198606
+			},
+			{
+				"name": "鶯歌區",
+				"NorthLatitude": 24.9614967,
+				"EastLongitude": 121.3427262
+			},
+			{
+				"name": "三重區",
+				"NorthLatitude": 25.0614534,
+				"EastLongitude": 121.4867114
+			},
+			{
+				"name": "新莊區",
+				"NorthLatitude": 25.0265985,
+				"EastLongitude": 121.4178347
+			},
+			{
+				"name": "泰山區",
+				"NorthLatitude": 25.0581641,
+				"EastLongitude": 121.4327919
+			},
+			{
+				"name": "林口區",
+				"NorthLatitude": 25.0790108,
+				"EastLongitude": 121.3881378
+			},
+			{
+				"name": "蘆洲區",
+				"NorthLatitude": 25.0868908,
+				"EastLongitude": 121.4715241
+			},
+			{
+				"name": "五股區",
+				"NorthLatitude": 25.0848317,
+				"EastLongitude": 121.4386586
+			},
+			{
+				"name": "八里區",
+				"NorthLatitude": 25.1443896,
+				"EastLongitude": 121.3983016
+			},
+			{
+				"name": "淡水區",
+				"NorthLatitude": 25.1719805,
+				"EastLongitude": 121.4433706
+			},
+			{
+				"name": "三芝區",
+				"NorthLatitude": 25.2593452,
+				"EastLongitude": 121.5024341
+			},
+			{
+				"name": "石門區",
+				"NorthLatitude": 25.2908277,
+				"EastLongitude": 121.5671383
+			}
+		],
+		"name": "新北市"
+	},
+	{
+		"districts": [
+			{
+				"name": "南竿鄉",
+				"NorthLatitude": 26.160198,
+				"EastLongitude": 119.9513711
+			},
+			{
+				"name": "北竿鄉",
+				"NorthLatitude": 26.2245753,
+				"EastLongitude": 119.9982607
+			},
+			{
+				"name": "莒光鄉",
+				"NorthLatitude": 25.9604777,
+				"EastLongitude": 119.9723303
+			},
+			{
+				"name": "東引鄉",
+				"NorthLatitude": 26.376667,
+				"EastLongitude": 120.506667
+			}
+		],
+		"name": "連江縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "宜蘭市",
+				"NorthLatitude": 24.7591148,
+				"EastLongitude": 121.7537404
+			},
+			{
+				"name": "壯圍鄉",
+				"NorthLatitude": 24.769569,
+				"EastLongitude": 121.7993168
+			},
+			{
+				"name": "頭城鎮",
+				"NorthLatitude": 24.8576121,
+				"EastLongitude": 121.8234687
+			},
+			{
+				"name": "礁溪鄉",
+				"NorthLatitude": 24.8214206,
+				"EastLongitude": 121.7696964
+			},
+			{
+				"name": "員山鄉",
+				"NorthLatitude": 24.7381293,
+				"EastLongitude": 121.662532
+			},
+			{
+				"name": "羅東鎮",
+				"NorthLatitude": 24.6755872,
+				"EastLongitude": 121.770825
+			},
+			{
+				"name": "三星鄉",
+				"NorthLatitude": 24.6744894,
+				"EastLongitude": 121.662532
+			},
+			{
+				"name": "大同鄉",
+				"NorthLatitude": 24.5498206,
+				"EastLongitude": 121.5141615
+			},
+			{
+				"name": "五結鄉",
+				"NorthLatitude": 24.6887633,
+				"EastLongitude": 121.8050125
+			},
+			{
+				"name": "冬山鄉",
+				"NorthLatitude": 24.6550376,
+				"EastLongitude": 121.7641363
+			},
+			{
+				"name": "蘇澳鎮",
+				"NorthLatitude": 24.594229,
+				"EastLongitude": 121.8533264
+			},
+			{
+				"name": "南澳鄉",
+				"NorthLatitude": 24.4065995,
+				"EastLongitude": 121.6739371
+			},
+			{
+				"name": "釣魚臺",
+				"NorthLatitude": 25.7461098,
+				"EastLongitude": 123.4747852
+			}
+		],
+		"name": "宜蘭縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "釣魚臺",
+				"NorthLatitude": 25.7461098,
+				"EastLongitude": 123.4747852
+			}
+		],
+		"name": "釣魚臺"
+	},
+	{
+		"districts": [
+			{
+				"name": "東區",
+				"NorthLatitude": 24.805166,
+				"EastLongitude": 120.973094
+			},
+			{
+				"name": "北區",
+				"NorthLatitude": 24.816446,
+				"EastLongitude": 120.970639
+			},
+			{
+				"name": "香山區",
+				"NorthLatitude": 24.7798216,
+				"EastLongitude": 120.9302603
+			}
+		],
+		"name": "新竹市"
+	},
+	{
+		"districts": [
+			{
+				"name": "寶山鄉",
+				"NorthLatitude": 24.7427912,
+				"EastLongitude": 120.9991032
+			},
+			{
+				"name": "竹北市",
+				"NorthLatitude": 24.8346871,
+				"EastLongitude": 120.9933678
+			},
+			{
+				"name": "湖口鄉",
+				"NorthLatitude": 24.8814458,
+				"EastLongitude": 121.0449768
+			},
+			{
+				"name": "新豐鄉",
+				"NorthLatitude": 24.9132859,
+				"EastLongitude": 120.9991032
+			},
+			{
+				"name": "新埔鎮",
+				"NorthLatitude": 24.8496061,
+				"EastLongitude": 121.0908329
+			},
+			{
+				"name": "關西鎮",
+				"NorthLatitude": 24.8044851,
+				"EastLongitude": 121.1481284
+			},
+			{
+				"name": "芎林鄉",
+				"NorthLatitude": 24.765792,
+				"EastLongitude": 121.1080244
+			},
+			{
+				"name": "竹東鎮",
+				"NorthLatitude": 24.774922,
+				"EastLongitude": 121.0449768
+			},
+			{
+				"name": "五峰鄉",
+				"NorthLatitude": 24.6298238,
+				"EastLongitude": 121.1194623
+			},
+			{
+				"name": "橫山鄉",
+				"NorthLatitude": 24.7113011,
+				"EastLongitude": 121.1366715
+			},
+			{
+				"name": "尖石鄉",
+				"NorthLatitude": 24.5760667,
+				"EastLongitude": 121.3084088
+			},
+			{
+				"name": "北埔鄉",
+				"NorthLatitude": 24.6998411,
+				"EastLongitude": 121.0563176
+			},
+			{
+				"name": "峨眉鄉",
+				"NorthLatitude": 24.6788411,
+				"EastLongitude": 120.9991032
+			}
+		],
+		"name": "新竹縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "中壢區",
+				"NorthLatitude": 24.9721514,
+				"EastLongitude": 121.2053963
+			},
+			{
+				"name": "平鎮區",
+				"NorthLatitude": 24.9296022,
+				"EastLongitude": 121.2053963
+			},
+			{
+				"name": "龍潭區",
+				"NorthLatitude": 24.8444927,
+				"EastLongitude": 121.2053963
+			},
+			{
+				"name": "楊梅區",
+				"NorthLatitude": 24.9242108,
+				"EastLongitude": 121.1366715
+			},
+			{
+				"name": "新屋區",
+				"NorthLatitude": 24.9826597,
+				"EastLongitude": 121.067907
+			},
+			{
+				"name": "觀音區",
+				"NorthLatitude": 25.0359365,
+				"EastLongitude": 121.1137544
+			},
+			{
+				"name": "桃園區",
+				"NorthLatitude": 24.9934099,
+				"EastLongitude": 121.2969674
+			},
+			{
+				"name": "龜山區",
+				"NorthLatitude": 25.0199092,
+				"EastLongitude": 121.3655989
+			},
+			{
+				"name": "八德區",
+				"NorthLatitude": 24.9469059,
+				"EastLongitude": 121.2912463
+			},
+			{
+				"name": "大溪區",
+				"NorthLatitude": 24.8658422,
+				"EastLongitude": 121.2969674
+			},
+			{
+				"name": "復興區",
+				"NorthLatitude": 24.709089,
+				"EastLongitude": 121.3770336
+			},
+			{
+				"name": "大園區",
+				"NorthLatitude": 25.0492632,
+				"EastLongitude": 121.193945
+			},
+			{
+				"name": "蘆竹區",
+				"NorthLatitude": 25.0784359,
+				"EastLongitude": 121.2969674
+			}
+		],
+		"name": "桃園市"
+	},
+	{
+		"districts": [
+			{
+				"name": "竹南鎮",
+				"NorthLatitude": 24.7009219,
+				"EastLongitude": 120.8786026
+			},
+			{
+				"name": "頭份市",
+				"NorthLatitude": 24.6884438,
+				"EastLongitude": 120.9024836
+			},
+			{
+				"name": "三灣鄉",
+				"NorthLatitude": 24.6305288,
+				"EastLongitude": 120.9302603
+			},
+			{
+				"name": "南庄鄉",
+				"NorthLatitude": 24.5802942,
+				"EastLongitude": 121.0105733
+			},
+			{
+				"name": "獅潭鄉",
+				"NorthLatitude": 24.5238661,
+				"EastLongitude": 120.9302603
+			},
+			{
+				"name": "後龍鎮",
+				"NorthLatitude": 24.6144348,
+				"EastLongitude": 120.7906035
+			},
+			{
+				"name": "通霄鎮",
+				"NorthLatitude": 24.4892617,
+				"EastLongitude": 120.6803783
+			},
+			{
+				"name": "苑裡鎮",
+				"NorthLatitude": 24.4098262,
+				"EastLongitude": 120.6775054
+			},
+			{
+				"name": "苗栗市",
+				"NorthLatitude": 24.5711502,
+				"EastLongitude": 120.8154358
+			},
+			{
+				"name": "造橋鄉",
+				"NorthLatitude": 24.6248068,
+				"EastLongitude": 120.8613785
+			},
+			{
+				"name": "頭屋鄉",
+				"NorthLatitude": 24.5765856,
+				"EastLongitude": 120.8545433
+			},
+			{
+				"name": "公館鄉",
+				"NorthLatitude": 24.5111399,
+				"EastLongitude": 120.8211796
+			},
+			{
+				"name": "大湖鄉",
+				"NorthLatitude": 24.3980966,
+				"EastLongitude": 120.8728615
+			},
+			{
+				"name": "泰安鄉",
+				"NorthLatitude": 24.3831955,
+				"EastLongitude": 121.03351
+			},
+			{
+				"name": "銅鑼鄉",
+				"NorthLatitude": 24.4481942,
+				"EastLongitude": 120.792458
+			},
+			{
+				"name": "三義鄉",
+				"NorthLatitude": 24.3892633,
+				"EastLongitude": 120.769476
+			},
+			{
+				"name": "西湖鄉",
+				"NorthLatitude": 24.5273821,
+				"EastLongitude": 120.7608567
+			},
+			{
+				"name": "卓蘭鎮",
+				"NorthLatitude": 24.3113039,
+				"EastLongitude": 120.8254872
+			}
+		],
+		"name": "苗栗縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "中區",
+				"NorthLatitude": 24.1402601,
+				"EastLongitude": 120.6818181
+			},
+			{
+				"name": "東區",
+				"NorthLatitude": 24.136549,
+				"EastLongitude": 120.704040
+			},
+			{
+				"name": "南區",
+				"NorthLatitude": 24.116884,
+				"EastLongitude": 120.663784
+			},
+			{
+				"name": "西區",
+				"NorthLatitude": 24.1430604,
+				"EastLongitude": 120.6631289
+			},
+			{
+				"name": "北區",
+				"NorthLatitude": 24.166128,
+				"EastLongitude": 120.682418
+			},
+			{
+				"name": "北屯區",
+				"NorthLatitude": 24.1815237,
+				"EastLongitude": 120.6861019
+			},
+			{
+				"name": "西屯區",
+				"NorthLatitude": 24.1769764,
+				"EastLongitude": 120.6424333
+			},
+			{
+				"name": "南屯區",
+				"NorthLatitude": 24.1471183,
+				"EastLongitude": 120.6084832
+			},
+			{
+				"name": "太平區",
+				"NorthLatitude": 24.1240719,
+				"EastLongitude": 120.7170701
+			},
+			{
+				"name": "大里區",
+				"NorthLatitude": 24.1046899,
+				"EastLongitude": 120.6812114
+			},
+			{
+				"name": "霧峰區",
+				"NorthLatitude": 24.044318,
+				"EastLongitude": 120.7350013
+			},
+			{
+				"name": "烏日區",
+				"NorthLatitude": 24.107787,
+				"EastLongitude": 120.6380936
+			},
+			{
+				"name": "豐原區",
+				"NorthLatitude": 24.2521213,
+				"EastLongitude": 120.7234816
+			},
+			{
+				"name": "后里區",
+				"NorthLatitude": 24.3088765,
+				"EastLongitude": 120.7223705
+			},
+			{
+				"name": "石岡區",
+				"NorthLatitude": 24.2742426,
+				"EastLongitude": 120.7771553
+			},
+			{
+				"name": "東勢區",
+				"NorthLatitude": 24.2599898,
+				"EastLongitude": 120.8272085
+			},
+			{
+				"name": "和平區",
+				"NorthLatitude": 24.3207261,
+				"EastLongitude": 121.3084088
+			},
+			{
+				"name": "新社區",
+				"NorthLatitude": 24.1867194,
+				"EastLongitude": 120.8154358
+			},
+			{
+				"name": "潭子區",
+				"NorthLatitude": 24.2163612,
+				"EastLongitude": 120.7062535
+			},
+			{
+				"name": "大雅區",
+				"NorthLatitude": 24.2225023,
+				"EastLongitude": 120.6545022
+			},
+			{
+				"name": "神岡區",
+				"NorthLatitude": 24.2499057,
+				"EastLongitude": 120.6817589
+			},
+			{
+				"name": "大肚區",
+				"NorthLatitude": 24.1358732,
+				"EastLongitude": 120.5624474
+			},
+			{
+				"name": "沙鹿區",
+				"NorthLatitude": 24.2377939,
+				"EastLongitude": 120.5854674
+			},
+			{
+				"name": "龍井區",
+				"NorthLatitude": 24.2101223,
+				"EastLongitude": 120.5057794
+			},
+			{
+				"name": "梧棲區",
+				"NorthLatitude": 24.2490793,
+				"EastLongitude": 120.5386546
+			},
+			{
+				"name": "清水區",
+				"NorthLatitude": 24.2754785,
+				"EastLongitude": 120.571328
+			},
+			{
+				"name": "大甲區",
+				"NorthLatitude": 24.3788233,
+				"EastLongitude": 120.6487508
+			},
+			{
+				"name": "外埔區",
+				"NorthLatitude": 24.3317733,
+				"EastLongitude": 120.6533224
+			},
+			{
+				"name": "大安區",
+				"NorthLatitude": 25.0249441,
+				"EastLongitude": 121.5433783
+			}
+		],
+		"name": "臺中市"
+	},
+	{
+		"districts": [
+			{
+				"name": "彰化市",
+				"NorthLatitude": 24.0889788,
+				"EastLongitude": 120.5566917
+			},
+			{
+				"name": "芬園鄉",
+				"NorthLatitude": 24.013564,
+				"EastLongitude": 120.6284031
+			},
+			{
+				"name": "花壇鄉",
+				"NorthLatitude": 24.0288453,
+				"EastLongitude": 120.5624474
+			},
+			{
+				"name": "秀水鄉",
+				"NorthLatitude": 24.0348603,
+				"EastLongitude": 120.5106372
+			},
+			{
+				"name": "鹿港鎮",
+				"NorthLatitude": 24.0755127,
+				"EastLongitude": 120.447285
+			},
+			{
+				"name": "福興鄉",
+				"NorthLatitude": 24.0377011,
+				"EastLongitude": 120.4242401
+			},
+			{
+				"name": "線西鄉",
+				"NorthLatitude": 24.1316695,
+				"EastLongitude": 120.4622016
+			},
+			{
+				"name": "和美鎮",
+				"NorthLatitude": 24.1122859,
+				"EastLongitude": 120.4983956
+			},
+			{
+				"name": "伸港鄉",
+				"NorthLatitude": 24.158174,
+				"EastLongitude": 120.4982653
+			},
+			{
+				"name": "員林市",
+				"NorthLatitude": 23.959574,
+				"EastLongitude": 120.5854674
+			},
+			{
+				"name": "社頭鄉",
+				"NorthLatitude": 23.8992037,
+				"EastLongitude": 120.5827201
+			},
+			{
+				"name": "永靖鄉",
+				"NorthLatitude": 23.9202279,
+				"EastLongitude": 120.5451797
+			},
+			{
+				"name": "埔心鄉",
+				"NorthLatitude": 23.9430014,
+				"EastLongitude": 120.5592918
+			},
+			{
+				"name": "溪湖鎮",
+				"NorthLatitude": 23.9583265,
+				"EastLongitude": 120.4933624
+			},
+			{
+				"name": "大村鄉",
+				"NorthLatitude": 23.9890696,
+				"EastLongitude": 120.5662224
+			},
+			{
+				"name": "埔鹽鄉",
+				"NorthLatitude": 23.9898141,
+				"EastLongitude": 120.447285
+			},
+			{
+				"name": "田中鎮",
+				"NorthLatitude": 23.8525401,
+				"EastLongitude": 120.5854674
+			},
+			{
+				"name": "北斗鎮",
+				"NorthLatitude": 23.869208,
+				"EastLongitude": 120.5336665
+			},
+			{
+				"name": "田尾鄉",
+				"NorthLatitude": 23.9038461,
+				"EastLongitude": 120.5221524
+			},
+			{
+				"name": "埤頭鄉",
+				"NorthLatitude": 23.8776623,
+				"EastLongitude": 120.4703258
+			},
+			{
+				"name": "溪州鄉",
+				"NorthLatitude": 23.8247844,
+				"EastLongitude": 120.5163949
+			},
+			{
+				"name": "竹塘鄉",
+				"NorthLatitude": 23.8448257,
+				"EastLongitude": 120.4242401
+			},
+			{
+				"name": "二林鎮",
+				"NorthLatitude": 23.9141358,
+				"EastLongitude": 120.4011911
+			},
+			{
+				"name": "大城鄉",
+				"NorthLatitude": 23.8483614,
+				"EastLongitude": 120.3089541
+			},
+			{
+				"name": "芳苑鄉",
+				"NorthLatitude": 23.9455949,
+				"EastLongitude": 120.3550808
+			},
+			{
+				"name": "二水鄉",
+				"NorthLatitude": 23.8115197,
+				"EastLongitude": 120.6160709
+			}
+		],
+		"name": "彰化縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "南投市",
+				"NorthLatitude": 23.9179637,
+				"EastLongitude": 120.6775054
+			},
+			{
+				"name": "中寮鄉",
+				"NorthLatitude": 23.9058666,
+				"EastLongitude": 120.7809676
+			},
+			{
+				"name": "草屯鎮",
+				"NorthLatitude": 23.9933816,
+				"EastLongitude": 120.7234992
+			},
+			{
+				"name": "國姓鄉",
+				"NorthLatitude": 24.0564429,
+				"EastLongitude": 120.8728615
+			},
+			{
+				"name": "埔里鎮",
+				"NorthLatitude": 23.9932872,
+				"EastLongitude": 120.9646866
+			},
+			{
+				"name": "仁愛鄉",
+				"NorthLatitude": 24.0213745,
+				"EastLongitude": 121.1252135
+			},
+			{
+				"name": "名間鄉",
+				"NorthLatitude": 23.8537843,
+				"EastLongitude": 120.6775054
+			},
+			{
+				"name": "集集鎮",
+				"NorthLatitude": 23.8279876,
+				"EastLongitude": 120.7925043
+			},
+			{
+				"name": "水里鄉",
+				"NorthLatitude": 23.7919524,
+				"EastLongitude": 120.8613785
+			},
+			{
+				"name": "魚池鄉",
+				"NorthLatitude": 23.8753852,
+				"EastLongitude": 120.9187827
+			},
+			{
+				"name": "信義鄉",
+				"NorthLatitude": 23.6679756,
+				"EastLongitude": 120.9876321
+			},
+			{
+				"name": "竹山鎮",
+				"NorthLatitude": 23.712201,
+				"EastLongitude": 120.6890055
+			},
+			{
+				"name": "鹿谷鄉",
+				"NorthLatitude": 23.7348372,
+				"EastLongitude": 120.7809676
+			}
+		],
+		"name": "南投縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "西區",
+				"NorthLatitude": 24.1430604,
+				"EastLongitude": 120.6631289
+			},
+			{
+				"name": "東區",
+				"NorthLatitude": 23.478809,
+				"EastLongitude": 120.453332
+			}
+		],
+		"name": "嘉義市"
+	},
+	{
+		"districts": [
+			{
+				"name": "番路鄉",
+				"NorthLatitude": 23.4407355,
+				"EastLongitude": 120.6084832
+			},
+			{
+				"name": "梅山鄉",
+				"NorthLatitude": 23.5410247,
+				"EastLongitude": 120.6890055
+			},
+			{
+				"name": "竹崎鄉",
+				"NorthLatitude": 23.5049724,
+				"EastLongitude": 120.6084832
+			},
+			{
+				"name": "阿里山鄉",
+				"NorthLatitude": 23.4354677,
+				"EastLongitude": 120.7809676
+			},
+			{
+				"name": "中埔鄉",
+				"NorthLatitude": 23.3995944,
+				"EastLongitude": 120.5509358
+			},
+			{
+				"name": "大埔鄉",
+				"NorthLatitude": 23.3040182,
+				"EastLongitude": 120.5969758
+			},
+			{
+				"name": "水上鄉",
+				"NorthLatitude": 23.4287422,
+				"EastLongitude": 120.4001659
+			},
+			{
+				"name": "鹿草鄉",
+				"NorthLatitude": 23.419257,
+				"EastLongitude": 120.3089541
+			},
+			{
+				"name": "太保市",
+				"NorthLatitude": 23.4964492,
+				"EastLongitude": 120.3837086
+			},
+			{
+				"name": "朴子市",
+				"NorthLatitude": 23.4464152,
+				"EastLongitude": 120.2570421
+			},
+			{
+				"name": "東石鄉",
+				"NorthLatitude": 23.4701923,
+				"EastLongitude": 120.1704766
+			},
+			{
+				"name": "六腳鄉",
+				"NorthLatitude": 23.529833,
+				"EastLongitude": 120.2873266
+			},
+			{
+				"name": "新港鄉",
+				"NorthLatitude": 23.538123,
+				"EastLongitude": 120.3550808
+			},
+			{
+				"name": "民雄鄉",
+				"NorthLatitude": 23.5203579,
+				"EastLongitude": 120.440409
+			},
+			{
+				"name": "大林鎮",
+				"NorthLatitude": 23.6040709,
+				"EastLongitude": 120.4542004
+			},
+			{
+				"name": "溪口鄉",
+				"NorthLatitude": 23.5925564,
+				"EastLongitude": 120.4011911
+			},
+			{
+				"name": "義竹鄉",
+				"NorthLatitude": 23.3530108,
+				"EastLongitude": 120.2166519
+			},
+			{
+				"name": "布袋鎮",
+				"NorthLatitude": 23.3627901,
+				"EastLongitude": 120.1704766
+			}
+		],
+		"name": "嘉義縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "斗南鎮",
+				"NorthLatitude": 23.6771369,
+				"EastLongitude": 120.4760808
+			},
+			{
+				"name": "大埤鄉",
+				"NorthLatitude": 23.6519084,
+				"EastLongitude": 120.4242401
+			},
+			{
+				"name": "虎尾鎮",
+				"NorthLatitude": 23.7162184,
+				"EastLongitude": 120.4242401
+			},
+			{
+				"name": "土庫鎮",
+				"NorthLatitude": 23.6882639,
+				"EastLongitude": 120.3550808
+			},
+			{
+				"name": "褒忠鄉",
+				"NorthLatitude": 23.6944368,
+				"EastLongitude": 120.3103204
+			},
+			{
+				"name": "東勢鄉",
+				"NorthLatitude": 23.693257,
+				"EastLongitude": 120.2570421
+			},
+			{
+				"name": "臺西鄉",
+				"NorthLatitude": 23.7229714,
+				"EastLongitude": 120.1935663
+			},
+			{
+				"name": "崙背鄉",
+				"NorthLatitude": 23.7601594,
+				"EastLongitude": 120.3531749
+			},
+			{
+				"name": "麥寮鄉",
+				"NorthLatitude": 23.7485306,
+				"EastLongitude": 120.2562662
+			},
+			{
+				"name": "斗六市",
+				"NorthLatitude": 23.7077947,
+				"EastLongitude": 120.5409089
+			},
+			{
+				"name": "林內鄉",
+				"NorthLatitude": 23.7587272,
+				"EastLongitude": 120.6159497
+			},
+			{
+				"name": "古坑鄉",
+				"NorthLatitude": 23.6449781,
+				"EastLongitude": 120.563741
+			},
+			{
+				"name": "莿桐鄉",
+				"NorthLatitude": 23.7769338,
+				"EastLongitude": 120.5394232
+			},
+			{
+				"name": "西螺鎮",
+				"NorthLatitude": 23.7755286,
+				"EastLongitude": 120.447285
+			},
+			{
+				"name": "二崙鄉",
+				"NorthLatitude": 23.8155793,
+				"EastLongitude": 120.4062196
+			},
+			{
+				"name": "北港鎮",
+				"NorthLatitude": 23.5958633,
+				"EastLongitude": 120.2858846
+			},
+			{
+				"name": "水林鄉",
+				"NorthLatitude": 23.5628088,
+				"EastLongitude": 120.2397336
+			},
+			{
+				"name": "口湖鄉",
+				"NorthLatitude": 23.6178327,
+				"EastLongitude": 120.1630864
+			},
+			{
+				"name": "四湖鄉",
+				"NorthLatitude": 23.6370834,
+				"EastLongitude": 120.1935663
+			},
+			{
+				"name": "元長鄉",
+				"NorthLatitude": 23.6288771,
+				"EastLongitude": 120.3320195
+			}
+		],
+		"name": "雲林縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "中西區",
+				"NorthLatitude": 22.992146,
+				"EastLongitude": 120.205448
+			},
+			{
+				"name": "東區",
+				"NorthLatitude": 22.979973,
+				"EastLongitude": 120.223439
+			},
+			{
+				"name": "南區",
+				"NorthLatitude": 22.961411,
+				"EastLongitude": 120.188716
+			},
+			{
+				"name": "北區",
+				"NorthLatitude": 22.999223,
+				"EastLongitude": 120.202862
+			},
+			{
+				"name": "安平區",
+				"NorthLatitude": 22.9934184,
+				"EastLongitude": 120.1647112
+			},
+			{
+				"name": "安南區",
+				"NorthLatitude": 23.0585336,
+				"EastLongitude": 120.1358346
+			},
+			{
+				"name": "永康區",
+				"NorthLatitude": 23.0211799,
+				"EastLongitude": 120.262788
+			},
+			{
+				"name": "歸仁區",
+				"NorthLatitude": 22.9519268,
+				"EastLongitude": 120.2858846
+			},
+			{
+				"name": "新化區",
+				"NorthLatitude": 23.0280873,
+				"EastLongitude": 120.3320195
+			},
+			{
+				"name": "左鎮區",
+				"NorthLatitude": 23.0300785,
+				"EastLongitude": 120.4242401
+			},
+			{
+				"name": "玉井區",
+				"NorthLatitude": 23.1060822,
+				"EastLongitude": 120.4703258
+			},
+			{
+				"name": "楠西區",
+				"NorthLatitude": 23.1820152,
+				"EastLongitude": 120.5163949
+			},
+			{
+				"name": "南化區",
+				"NorthLatitude": 23.1079133,
+				"EastLongitude": 120.5624474
+			},
+			{
+				"name": "仁德區",
+				"NorthLatitude": 22.9472553,
+				"EastLongitude": 120.2511778
+			},
+			{
+				"name": "關廟區",
+				"NorthLatitude": 22.9637053,
+				"EastLongitude": 120.3320195
+			},
+			{
+				"name": "龍崎區",
+				"NorthLatitude": 22.9540045,
+				"EastLongitude": 120.378138
+			},
+			{
+				"name": "官田區",
+				"NorthLatitude": 23.1948768,
+				"EastLongitude": 120.3550808
+			},
+			{
+				"name": "麻豆區",
+				"NorthLatitude": 23.1763401,
+				"EastLongitude": 120.2397336
+			},
+			{
+				"name": "佳里區",
+				"NorthLatitude": 23.1694465,
+				"EastLongitude": 120.1704766
+			},
+			{
+				"name": "西港區",
+				"NorthLatitude": 23.1257853,
+				"EastLongitude": 120.1993381
+			},
+			{
+				"name": "七股區",
+				"NorthLatitude": 23.1195166,
+				"EastLongitude": 120.1011836
+			},
+			{
+				"name": "將軍區",
+				"NorthLatitude": 23.2054945,
+				"EastLongitude": 120.1011836
+			},
+			{
+				"name": "學甲區",
+				"NorthLatitude": 23.2553798,
+				"EastLongitude": 120.1704766
+			},
+			{
+				"name": "北門區",
+				"NorthLatitude": 23.2866026,
+				"EastLongitude": 120.1242853
+			},
+			{
+				"name": "新營區",
+				"NorthLatitude": 23.3119567,
+				"EastLongitude": 120.3089541
+			},
+			{
+				"name": "後壁區",
+				"NorthLatitude": 23.3665101,
+				"EastLongitude": 120.3550808
+			},
+			{
+				"name": "白河區",
+				"NorthLatitude": 23.3336369,
+				"EastLongitude": 120.4588059
+			},
+			{
+				"name": "東山區",
+				"NorthLatitude": 23.2825014,
+				"EastLongitude": 120.447285
+			},
+			{
+				"name": "六甲區",
+				"NorthLatitude": 23.2426813,
+				"EastLongitude": 120.3320195
+			},
+			{
+				"name": "下營區",
+				"NorthLatitude": 23.2292915,
+				"EastLongitude": 120.2685799
+			},
+			{
+				"name": "柳營區",
+				"NorthLatitude": 23.2806957,
+				"EastLongitude": 120.3550808
+			},
+			{
+				"name": "鹽水區",
+				"NorthLatitude": 23.2622306,
+				"EastLongitude": 120.2397336
+			},
+			{
+				"name": "善化區",
+				"NorthLatitude": 23.1402613,
+				"EastLongitude": 120.3089541
+			},
+			{
+				"name": "新市區",
+				"NorthLatitude": 23.0780281,
+				"EastLongitude": 120.2919179
+			},
+			{
+				"name": "大內區",
+				"NorthLatitude": 23.1421962,
+				"EastLongitude": 120.4011911
+			},
+			{
+				"name": "山上區",
+				"NorthLatitude": 23.0893067,
+				"EastLongitude": 120.3723741
+			},
+			{
+				"name": "安定區",
+				"NorthLatitude": 23.090792,
+				"EastLongitude": 120.2334385
+			}
+		],
+		"name": "臺南市"
+	},
+	{
+		"districts": [
+			{
+				"name": "新興區",
+				"NorthLatitude": 22.6283893,
+				"EastLongitude": 120.3060706
+			},
+			{
+				"name": "前金區",
+				"NorthLatitude": 22.6252508,
+				"EastLongitude": 120.2953492
+			},
+			{
+				"name": "苓雅區",
+				"NorthLatitude": 22.6268814,
+				"EastLongitude": 120.3262535
+			},
+			{
+				"name": "鹽埕區",
+				"NorthLatitude": 22.6235157,
+				"EastLongitude": 120.2837442
+			},
+			{
+				"name": "鼓山區",
+				"NorthLatitude": 22.6495866,
+				"EastLongitude": 120.2685799
+			},
+			{
+				"name": "旗津區",
+				"NorthLatitude": 22.6141771,
+				"EastLongitude": 120.2659394
+			},
+			{
+				"name": "前鎮區",
+				"NorthLatitude": 22.5970794,
+				"EastLongitude": 120.3147208
+			},
+			{
+				"name": "三民區",
+				"NorthLatitude": 22.6483444,
+				"EastLongitude": 120.3262535
+			},
+			{
+				"name": "楠梓區",
+				"NorthLatitude": 22.7175372,
+				"EastLongitude": 120.3031871
+			},
+			{
+				"name": "小港區",
+				"NorthLatitude": 22.5553185,
+				"EastLongitude": 120.3608455
+			},
+			{
+				"name": "左營區",
+				"NorthLatitude": 22.6877358,
+				"EastLongitude": 120.2916524
+			},
+			{
+				"name": "仁武區",
+				"NorthLatitude": 22.7057951,
+				"EastLongitude": 120.3423604
+			},
+			{
+				"name": "大社區",
+				"NorthLatitude": 22.7377083,
+				"EastLongitude": 120.3608455
+			},
+			{
+				"name": "東沙群島",
+				"NorthLatitude": 20.7016691,
+				"EastLongitude": 116.7304915
+			},
+			{
+				"name": "南沙群島",
+				"NorthLatitude": 10.723282,
+				"EastLongitude": 115.8264655
+			},
+			{
+				"name": "岡山區",
+				"NorthLatitude": 22.798585,
+				"EastLongitude": 120.295086
+			},
+			{
+				"name": "路竹區",
+				"NorthLatitude": 22.8494042,
+				"EastLongitude": 120.2628111
+			},
+			{
+				"name": "阿蓮區",
+				"NorthLatitude": 22.8778606,
+				"EastLongitude": 120.3320195
+			},
+			{
+				"name": "田寮區",
+				"NorthLatitude": 22.8633474,
+				"EastLongitude": 120.4011911
+			},
+			{
+				"name": "燕巢區",
+				"NorthLatitude": 22.7823697,
+				"EastLongitude": 120.378138
+			},
+			{
+				"name": "橋頭區",
+				"NorthLatitude": 22.7539031,
+				"EastLongitude": 120.3089574
+			},
+			{
+				"name": "梓官區",
+				"NorthLatitude": 22.7486104,
+				"EastLongitude": 120.2570421
+			},
+			{
+				"name": "彌陀區",
+				"NorthLatitude": 22.7832231,
+				"EastLongitude": 120.2455033
+			},
+			{
+				"name": "永安區",
+				"NorthLatitude": 22.8112691,
+				"EastLongitude": 120.2397336
+			},
+			{
+				"name": "湖內區",
+				"NorthLatitude": 22.8954184,
+				"EastLongitude": 120.2224227
+			},
+			{
+				"name": "鳳山區",
+				"NorthLatitude": 22.6113591,
+				"EastLongitude": 120.3493158
+			},
+			{
+				"name": "大寮區",
+				"NorthLatitude": 22.584481,
+				"EastLongitude": 120.4011911
+			},
+			{
+				"name": "林園區",
+				"NorthLatitude": 22.4986756,
+				"EastLongitude": 120.4011911
+			},
+			{
+				"name": "鳥松區",
+				"NorthLatitude": 22.6602052,
+				"EastLongitude": 120.3723741
+			},
+			{
+				"name": "大樹區",
+				"NorthLatitude": 22.708371,
+				"EastLongitude": 120.4242401
+			},
+			{
+				"name": "旗山區",
+				"NorthLatitude": 22.8702492,
+				"EastLongitude": 120.4703258
+			},
+			{
+				"name": "美濃區",
+				"NorthLatitude": 22.885385,
+				"EastLongitude": 120.5509358
+			},
+			{
+				"name": "六龜區",
+				"NorthLatitude": 23.0026195,
+				"EastLongitude": 120.6545022
+			},
+			{
+				"name": "內門區",
+				"NorthLatitude": 22.9560087,
+				"EastLongitude": 120.4703258
+			},
+			{
+				"name": "杉林區",
+				"NorthLatitude": 23.0007902,
+				"EastLongitude": 120.5624474
+			},
+			{
+				"name": "甲仙區",
+				"NorthLatitude": 23.114592,
+				"EastLongitude": 120.6314948
+			},
+			{
+				"name": "桃源區",
+				"NorthLatitude": 23.2280755,
+				"EastLongitude": 120.8498944
+			},
+			{
+				"name": "那瑪夏區",
+				"NorthLatitude": 23.2742978,
+				"EastLongitude": 120.734995
+			},
+			{
+				"name": "茂林區",
+				"NorthLatitude": 22.9319405,
+				"EastLongitude": 120.734995
+			},
+			{
+				"name": "茄萣區",
+				"NorthLatitude": 22.8763476,
+				"EastLongitude": 120.2108809
+			}
+		],
+		"name": "高雄市"
+	},
+	{
+		"districts": [
+			{
+				"name": "東沙群島",
+				"NorthLatitude": 20.7016691,
+				"EastLongitude": 116.7304915
+			},
+			{
+				"name": "南沙群島",
+				"NorthLatitude": 10.723282,
+				"EastLongitude": 115.8264655
+			}
+		],
+		"name": "南海島"
+	},
+	{
+		"districts": [
+			{
+				"name": "馬公市",
+				"NorthLatitude": 23.5706269,
+				"EastLongitude": 119.5774616
+			},
+			{
+				"name": "西嶼鄉",
+				"NorthLatitude": 23.6054584,
+				"EastLongitude": 119.5136711
+			},
+			{
+				"name": "望安鄉",
+				"NorthLatitude": 23.3596967,
+				"EastLongitude": 119.5020698
+			},
+			{
+				"name": "七美鄉",
+				"NorthLatitude": 23.208056,
+				"EastLongitude": 119.428611
+			},
+			{
+				"name": "白沙鄉",
+				"NorthLatitude": 23.6640444,
+				"EastLongitude": 119.5948541
+			},
+			{
+				"name": "湖西鄉",
+				"NorthLatitude": 23.5773682,
+				"EastLongitude": 119.6615055
+			}
+		],
+		"name": "澎湖縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "金沙鎮",
+				"NorthLatitude": 24.4811092,
+				"EastLongitude": 118.4279933
+			},
+			{
+				"name": "金湖鎮",
+				"NorthLatitude": 24.4376913,
+				"EastLongitude": 118.4279933
+			},
+			{
+				"name": "金寧鄉",
+				"NorthLatitude": 24.4565774,
+				"EastLongitude": 118.3058515
+			},
+			{
+				"name": "金城鎮",
+				"NorthLatitude": 24.4320647,
+				"EastLongitude": 118.3155101
+			},
+			{
+				"name": "烈嶼鄉",
+				"NorthLatitude": 24.4279737,
+				"EastLongitude": 118.2351192
+			},
+			{
+				"name": "烏坵鄉",
+				"NorthLatitude": 24.9917821,
+				"EastLongitude": 119.451303
+			}
+		],
+		"name": "金門縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "屏東市",
+				"NorthLatitude": 22.6558442,
+				"EastLongitude": 120.4703258
+			},
+			{
+				"name": "三地門鄉",
+				"NorthLatitude": 22.8133088,
+				"EastLongitude": 120.6890055
+			},
+			{
+				"name": "霧臺鄉",
+				"NorthLatitude": 22.7509887,
+				"EastLongitude": 120.7809676
+			},
+			{
+				"name": "瑪家鄉",
+				"NorthLatitude": 22.6903584,
+				"EastLongitude": 120.6378794
+			},
+			{
+				"name": "九如鄉",
+				"NorthLatitude": 22.7335733,
+				"EastLongitude": 120.4891517
+			},
+			{
+				"name": "里港鄉",
+				"NorthLatitude": 22.7962363,
+				"EastLongitude": 120.5163949
+			},
+			{
+				"name": "高樹鄉",
+				"NorthLatitude": 22.8254924,
+				"EastLongitude": 120.6003824
+			},
+			{
+				"name": "鹽埔鄉",
+				"NorthLatitude": 22.7436807,
+				"EastLongitude": 120.5624474
+			},
+			{
+				"name": "長治鄉",
+				"NorthLatitude": 22.700828,
+				"EastLongitude": 120.5624474
+			},
+			{
+				"name": "麟洛鄉",
+				"NorthLatitude": 22.6515201,
+				"EastLongitude": 120.5259627
+			},
+			{
+				"name": "竹田鄉",
+				"NorthLatitude": 22.5939138,
+				"EastLongitude": 120.5326679
+			},
+			{
+				"name": "內埔鄉",
+				"NorthLatitude": 22.6151342,
+				"EastLongitude": 120.5663201
+			},
+			{
+				"name": "萬丹鄉",
+				"NorthLatitude": 22.591522,
+				"EastLongitude": 120.4703258
+			},
+			{
+				"name": "潮州鎮",
+				"NorthLatitude": 22.5294168,
+				"EastLongitude": 120.5624474
+			},
+			{
+				"name": "泰武鄉",
+				"NorthLatitude": 22.5779544,
+				"EastLongitude": 120.6348032
+			},
+			{
+				"name": "來義鄉",
+				"NorthLatitude": 22.4921661,
+				"EastLongitude": 120.6247208
+			},
+			{
+				"name": "萬巒鄉",
+				"NorthLatitude": 22.584046,
+				"EastLongitude": 120.6084832
+			},
+			{
+				"name": "崁頂鄉",
+				"NorthLatitude": 22.5158427,
+				"EastLongitude": 120.4991209
+			},
+			{
+				"name": "新埤鄉",
+				"NorthLatitude": 22.4817586,
+				"EastLongitude": 120.5854674
+			},
+			{
+				"name": "南州鄉",
+				"NorthLatitude": 22.4747339,
+				"EastLongitude": 120.5163949
+			},
+			{
+				"name": "林邊鄉",
+				"NorthLatitude": 22.4347039,
+				"EastLongitude": 120.5147274
+			},
+			{
+				"name": "東港鎮",
+				"NorthLatitude": 22.4628783,
+				"EastLongitude": 120.4703258
+			},
+			{
+				"name": "琉球鄉",
+				"NorthLatitude": 22.341646,
+				"EastLongitude": 120.369492
+			},
+			{
+				"name": "佳冬鄉",
+				"NorthLatitude": 22.427078,
+				"EastLongitude": 120.5394232
+			},
+			{
+				"name": "新園鄉",
+				"NorthLatitude": 22.4774001,
+				"EastLongitude": 120.442154
+			},
+			{
+				"name": "枋寮鄉",
+				"NorthLatitude": 22.3960688,
+				"EastLongitude": 120.5854674
+			},
+			{
+				"name": "枋山鄉",
+				"NorthLatitude": 22.2606439,
+				"EastLongitude": 120.6573779
+			},
+			{
+				"name": "春日鄉",
+				"NorthLatitude": 22.3851778,
+				"EastLongitude": 120.6890055
+			},
+			{
+				"name": "獅子鄉",
+				"NorthLatitude": 22.2471686,
+				"EastLongitude": 120.734995
+			},
+			{
+				"name": "車城鄉",
+				"NorthLatitude": 22.0843074,
+				"EastLongitude": 120.7464897
+			},
+			{
+				"name": "牡丹鄉",
+				"NorthLatitude": 22.1520217,
+				"EastLongitude": 120.7809676
+			},
+			{
+				"name": "恆春鎮",
+				"NorthLatitude": 22.0008277,
+				"EastLongitude": 120.7447638
+			},
+			{
+				"name": "滿州鄉",
+				"NorthLatitude": 22.04385,
+				"EastLongitude": 120.8384093
+			}
+		],
+		"name": "屏東縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "臺東市",
+				"NorthLatitude": 22.7613207,
+				"EastLongitude": 121.1438152
+			},
+			{
+				"name": "綠島鄉",
+				"NorthLatitude": 22.6620886,
+				"EastLongitude": 121.4901443
+			},
+			{
+				"name": "蘭嶼鄉",
+				"NorthLatitude": 22.0269018,
+				"EastLongitude": 121.5415968
+			},
+			{
+				"name": "延平鄉",
+				"NorthLatitude": 22.931996,
+				"EastLongitude": 121.03351
+			},
+			{
+				"name": "卑南鄉",
+				"NorthLatitude": 22.7848196,
+				"EastLongitude": 121.0834446
+			},
+			{
+				"name": "鹿野鄉",
+				"NorthLatitude": 22.9580514,
+				"EastLongitude": 121.1595842
+			},
+			{
+				"name": "關山鎮",
+				"NorthLatitude": 23.0495603,
+				"EastLongitude": 121.1646339
+			},
+			{
+				"name": "海端鄉",
+				"NorthLatitude": 23.1305611,
+				"EastLongitude": 121.1756856
+			},
+			{
+				"name": "池上鄉",
+				"NorthLatitude": 23.120733,
+				"EastLongitude": 121.2161784
+			},
+			{
+				"name": "東河鄉",
+				"NorthLatitude": 23.0691722,
+				"EastLongitude": 121.2855249
+			},
+			{
+				"name": "成功鎮",
+				"NorthLatitude": 23.1261527,
+				"EastLongitude": 121.3655989
+			},
+			{
+				"name": "長濱鄉",
+				"NorthLatitude": 23.3451824,
+				"EastLongitude": 121.43419
+			},
+			{
+				"name": "太麻里鄉",
+				"NorthLatitude": 22.6102278,
+				"EastLongitude": 121.0044631
+			},
+			{
+				"name": "金峰鄉",
+				"NorthLatitude": 22.5604145,
+				"EastLongitude": 120.8728615
+			},
+			{
+				"name": "大武鄉",
+				"NorthLatitude": 22.4141954,
+				"EastLongitude": 120.907304
+			},
+			{
+				"name": "達仁鄉",
+				"NorthLatitude": 22.3990588,
+				"EastLongitude": 120.8269231
+			}
+		],
+		"name": "臺東縣"
+	},
+	{
+		"districts": [
+			{
+				"name": "花蓮市",
+				"NorthLatitude": 23.9910732,
+				"EastLongitude": 121.6111949
+			},
+			{
+				"name": "新城鄉",
+				"NorthLatitude": 24.0327075,
+				"EastLongitude": 121.6043742
+			},
+			{
+				"name": "秀林鄉",
+				"NorthLatitude": 24.3082079,
+				"EastLongitude": 121.7482315
+			},
+			{
+				"name": "吉安鄉",
+				"NorthLatitude": 23.9732022,
+				"EastLongitude": 121.5841779
+			},
+			{
+				"name": "壽豐鄉",
+				"NorthLatitude": 23.8593411,
+				"EastLongitude": 121.5598345
+			},
+			{
+				"name": "鳳林鎮",
+				"NorthLatitude": 23.7443841,
+				"EastLongitude": 121.4570447
+			},
+			{
+				"name": "光復鄉",
+				"NorthLatitude": 23.6350647,
+				"EastLongitude": 121.422761
+			},
+			{
+				"name": "豐濱鄉",
+				"NorthLatitude": 23.5851901,
+				"EastLongitude": 121.5027404
+			},
+			{
+				"name": "瑞穗鄉",
+				"NorthLatitude": 23.5205619,
+				"EastLongitude": 121.4113308
+			},
+			{
+				"name": "萬榮鄉",
+				"NorthLatitude": 23.7245744,
+				"EastLongitude": 121.3084088
+			},
+			{
+				"name": "玉里鎮",
+				"NorthLatitude": 23.3326186,
+				"EastLongitude": 121.3158222
+			},
+			{
+				"name": "卓溪鄉",
+				"NorthLatitude": 23.2745084,
+				"EastLongitude": 121.2626305
+			},
+			{
+				"name": "富里鄉",
+				"NorthLatitude": 23.154416,
+				"EastLongitude": 121.2855249
+			}
+		],
+		"name": "花蓮縣"
+	}
+]
