@@ -15,7 +15,7 @@
 - [合作](#合作)
 
 ## 文檔
-
+- [Discord 文檔](https://github.com/ExpTechTW/EEW/blob/%E4%B8%BB%E8%A6%81%E7%9A%84-(main)/Discord.md)
 
 ## 依賴
 - 服務
