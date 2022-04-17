@@ -21,7 +21,7 @@
 - 服務
   - [ExpTech API](https://github.com/ExpTechTW/API)
 - 文件
-  - [座標文件](https://github.com/ExpTechTW/ExpTech_Discord.js_Bot/blob/%E4%B8%BB%E8%A6%81%E7%9A%84-(main)/Json/location.json)
+  - [座標文件](https://github.com/ExpTechTW/EEW/blob/%E4%B8%BB%E8%A6%81%E7%9A%84-(main)/locations.json)
 
 ## 原理
 - 當地震發生時，由 ExpTech API 解析取得 `EEW 地震資訊[註1]`，並透過 WebSocket 廣播到所有已訂閱設備
