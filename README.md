@@ -39,7 +39,6 @@
 
 ## 效果
 ![image](https://user-images.githubusercontent.com/44525760/165128127-1e6bf66f-9ad9-447a-ac93-491c0f7a65d5.png)
-![image](https://user-images.githubusercontent.com/44525760/165128415-7455e398-f461-427a-9ea7-eccde0d039b9.png)
 
 ## 貢獻者
 - 地牛Wake Up! `音頻` `地理訊息`
